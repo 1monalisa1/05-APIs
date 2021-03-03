@@ -15,7 +15,8 @@
 * The closing price of AGG on 3/2/2021 had been: $115.12
    * Therefore, the value of 200 shares of AGG had been $23024.00.
 
-## Monte Carlo Analysis Results • 95% chance of achieving the range below:
+## Monte Carlo Analysis Results
+#### * *95% chance of growing assets to levels within the ranges below:*
 * Example 1:
    * Initial Investment: $20,000
    * Time Frame: 30 years
