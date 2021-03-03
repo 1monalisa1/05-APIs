@@ -15,7 +15,7 @@
 * The closing price of AGG on 3/2/2021 had been: $115.12
    * Therefore, the value of 200 shares of AGG had been $23024.00.
 
-## Monte Carlo Analysis Results • 95% Chance of the Range Below Given the Following Parameters
+## Monte Carlo Analysis Results • 95% chance of achieving the range below:
 * Example 1:
    * Initial Investment: $20,000
    * Time Frame: 30 years
@@ -34,5 +34,5 @@
    * *Projected Range: $24,059.95 and $94,738.94* 
 
 ## Moral of the Story
-#### * *More Money, More Time = High Probability of More Money to Relax During Retirement*
+#### * *More Money, More Time = Higher Probability of More Money to Relax During Retirement*
 ![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/6cd9699d3ef51de90cad55ed802c166d71bf0654/Mona-Retired.jpeg)
