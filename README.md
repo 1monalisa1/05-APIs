@@ -16,7 +16,7 @@
    * Therefore, the value of 200 shares of AGG had been $23024.00.
 
 ## Monte Carlo Analysis Results
-#### * *95% chance of growing assets to levels within the ranges below:*
+#### *95% chance of growing assets to levels within the ranges below:*
 * Example 1:
    * Initial Investment: $20,000
    * Time Frame: 30 years
@@ -35,5 +35,5 @@
    * *Projected Range: $24,059.95 and $94,738.94* 
 
 ## Moral of the Story
-#### *More Money, More Time = Higher probability of more money to relax and snuggle your bear during retirement*
+#### *More Money, More Time = Higher probability of more money to relax and snuggle your favorite bear during retirement*
 ![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/6cd9699d3ef51de90cad55ed802c166d71bf0654/Mona-Retired.jpeg)
