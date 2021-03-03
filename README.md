@@ -17,4 +17,4 @@
 
 
 
-![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/c66fb989714843959ed881bd47028718180ac606/IMG_2906%20(1).jpeg)
+![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/6cd9699d3ef51de90cad55ed802c166d71bf0654/Mona-Retired.jpeg)
