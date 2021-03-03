@@ -17,4 +17,4 @@
 
 
 
-![Klarna-Logo](https://github.com/1monalisa1/FinTech-Case-Study/blob/master/Images/Klarna-Logo.png?raw=true)
+![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/c66fb989714843959ed881bd47028718180ac606/IMG_2906%20(1).jpeg)
