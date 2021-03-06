@@ -35,5 +35,5 @@
    * *Projected Range: $24,059.95 and $94,738.94* 
 
 ## Moral of the Story
-#### *More Money + More Time = Higher probability of more money to relax and snuggle your favorite bear during retirement*
+#### *More Money + More Time = Higher probability of accumulating more money to relax and snuggle your favorite bear during retirement*
 ![Mona-Retired](https://github.com/1monalisa1/05-APIs/blob/6cd9699d3ef51de90cad55ed802c166d71bf0654/Mona-Retired.jpeg)
